@@ -134,76 +134,76 @@ export const GameProvider = ({ children }) => {
             },
             chat: [
                 {
-                    "name": "Maxime Eisler",
-                    "description": "Gérant chez alpestetiers.com, Maxime Eisler est un spécialiste des coffrages en bois pour le béton avec un parcours impressionnant. Après un M2 MAE, il a commencé sa carrière chez Eiffage avant de se lancer dans l'entrepreneuriat en rachetant et en dirigeant avec succès sa propre entreprise depuis 8 ans.",
-                    "questions": [
+                    name: "Maxime Eisler",
+                    description: "Gérant chez alpestetiers.com, Maxime Eisler est un spécialiste des coffrages en bois pour le béton avec un parcours impressionnant. Après un M2 MAE, il a commencé sa carrière chez Eiffage avant de se lancer dans l'entrepreneuriat en rachetant et en dirigeant avec succès sa propre entreprise depuis 8 ans.",
+                    questions: [
                         {
-                            "question": "Comment la diversification des clients et des services a-t-elle impacté votre entreprise dans le domaine de la vente ?",
-                            "answer": "La diversification a été cruciale pour réduire notre dépendance à un petit nombre de clients, ce qui a stabilisé et augmenté notre chiffre d'affaires. Cela nous a permis de mieux naviguer dans un marché fluctuant."
+                            question: "Comment la diversification des clients et des services a-t-elle impacté votre entreprise dans le domaine de la vente ?",
+                            answer: "La diversification a été cruciale pour réduire notre dépendance à un petit nombre de clients, ce qui a stabilisé et augmenté notre chiffre d'affaires. Cela nous a permis de mieux naviguer dans un marché fluctuant."
                         },
                         {
-                            "question": "Quels ont été les défis majeurs dans le secteur de la vente, et comment les avez-vous surmontés ?",
-                            "answer": "Le plus grand défi était la dépendance à quelques clients. En diversifiant notre clientèle et en investissant dans de nouvelles machines pour renforcer la production, nous avons pu surmonter ce défi.",
+                            question: "Quels ont été les défis majeurs dans le secteur de la vente, et comment les avez-vous surmontés ?",
+                            answer: "Le plus grand défi était la dépendance à quelques clients. En diversifiant notre clientèle et en investissant dans de nouvelles machines pour renforcer la production, nous avons pu surmonter ce défi.",
                             reward: {
                                 motivation: 1,
                                 claimed: false,
                             }
                         },
                         {
-                            "question": "Quels conseils donneriez-vous à un nouvel entrepreneur désirant se lancer dans la vente ?",
-                            "answer": "Je conseillerais de ne pas rester isolé, de solliciter des conseils extérieurs et de s'assurer d'avoir une bonne assurance pour sécuriser l'entreprise. Aussi, avoir un site web pour augmenter la visibilité est crucial."
+                            question: "Quels conseils donneriez-vous à un nouvel entrepreneur désirant se lancer dans la vente ?",
+                            answer: "Je conseillerais de ne pas rester isolé, de solliciter des conseils extérieurs et de s'assurer d'avoir une bonne assurance pour sécuriser l'entreprise. Aussi, avoir un site web pour augmenter la visibilité est crucial."
                         }
                     ]
                 },
                 {
-                    "name": "Cédric Garna",
-                    "description": "Cédric Garna, actuellement à la tête de la Laiterie Gilbert, a un parcours professionnel varié, ayant travaillé dans de nombreux secteurs avant de reprendre la laiterie en 2012. Avec un diplôme de GEM et une expérience riche en diversité, il a réussi à développer un réseau de franchises prospère et à moderniser l'entreprise tout en mettant l'accent sur les relations humaines et le terroir.",
-                    "questions": [
+                    name: "Cédric Garna",
+                    description: "Cédric Garna, actuellement à la tête de la Laiterie Gilbert, a un parcours professionnel varié, ayant travaillé dans de nombreux secteurs avant de reprendre la laiterie en 2012. Avec un diplôme de GEM et une expérience riche en diversité, il a réussi à développer un réseau de franchises prospère et à moderniser l'entreprise tout en mettant l'accent sur les relations humaines et le terroir.",
+                    questions: [
                         {
-                            "question": "Comment la stratégie de franchise a-t-elle influencé votre succès dans le domaine de la vente ?",
-                            "answer": "La franchise a permis une croissance rapide et efficace, en partageant le modèle d'affaires tout en conservant un contrôle de qualité. Cela a grandement contribué à notre expansion et à notre visibilité sur le marché."
+                            question: "Comment la stratégie de franchise a-t-elle influencé votre succès dans le domaine de la vente ?",
+                            answer: "La franchise a permis une croissance rapide et efficace, en partageant le modèle d'affaires tout en conservant un contrôle de qualité. Cela a grandement contribué à notre expansion et à notre visibilité sur le marché."
                         },
                         {
-                            "question": "Quels sont les principaux défis rencontrés dans la gestion d'une chaîne de franchises et comment les avez-vous surmontés ?",
-                            "answer": "Les principaux défis étaient de maintenir une qualité et une expérience client homogène à travers toutes les franchises. Nous avons surmonté cela par une formation rigoureuse des franchisés et une communication constante."
+                            question: "Quels sont les principaux défis rencontrés dans la gestion d'une chaîne de franchises et comment les avez-vous surmontés ?",
+                            answer: "Les principaux défis étaient de maintenir une qualité et une expérience client homogène à travers toutes les franchises. Nous avons surmonté cela par une formation rigoureuse des franchisés et une communication constante."
                         },
                         {
-                            "question": "Quels conseils donneriez-vous à un entrepreneur cherchant à entrer dans le secteur de la vente avec un modèle de franchise ?",
-                            "answer": "Il est crucial d'avoir un modèle d'affaires solide et de choisir soigneusement les franchisés. La formation et le soutien continu sont essentiels pour le succès de chaque franchise."
+                            question: "Quels conseils donneriez-vous à un entrepreneur cherchant à entrer dans le secteur de la vente avec un modèle de franchise ?",
+                            answer: "Il est crucial d'avoir un modèle d'affaires solide et de choisir soigneusement les franchisés. La formation et le soutien continu sont essentiels pour le succès de chaque franchise."
                         }
                     ]
                 },
                 {
-                    "name": "Lucien Rumbroso",
-                    "description": "Lucien Rumbroso, un ingénieur de formation et parrain chez 60000rebonds, a un parcours marqué par la résilience et la capacité à surmonter les échecs. Sa carrière diverse, du poste d'ingénieur à la direction d'une entreprise en difficulté, illustre son adaptabilité et son expertise dans la gestion des risques et des conflits.",
-                    "questions": [
+                    name: "Lucien Rumbroso",
+                    description: "Lucien Rumbroso, un ingénieur de formation et parrain chez 60000rebonds, a un parcours marqué par la résilience et la capacité à surmonter les échecs. Sa carrière diverse, du poste d'ingénieur à la direction d'une entreprise en difficulté, illustre son adaptabilité et son expertise dans la gestion des risques et des conflits.",
+                    questions: [
                         {
-                            "question": "Comment votre expérience dans la gestion des conflits et des risques a-t-elle influencé votre approche dans le domaine des services ?",
-                            "answer": "Ma gestion des conflits m'a appris l'importance de la négociation et de la communication claire, surtout dans les services où la relation client est clé. Savoir anticiper et gérer les risques est fondamental pour maintenir la stabilité de l'entreprise."
+                            question: "Comment votre expérience dans la gestion des conflits et des risques a-t-elle influencé votre approche dans le domaine des services ?",
+                            answer: "Ma gestion des conflits m'a appris l'importance de la négociation et de la communication claire, surtout dans les services où la relation client est clé. Savoir anticiper et gérer les risques est fondamental pour maintenir la stabilité de l'entreprise."
                         },
                         {
-                            "question": "Quels défis spécifiques rencontre-t-on dans le domaine des services, et comment les surmonter ?",
-                            "answer": "Dans les services, les défis majeurs incluent la gestion des attentes clients et la fourniture d'un service de qualité constante. Surmonter ces défis implique une formation continue de l'équipe et une attention particulière aux retours clients."
+                            question: "Quels défis spécifiques rencontre-t-on dans le domaine des services, et comment les surmonter ?",
+                            answer: "Dans les services, les défis majeurs incluent la gestion des attentes clients et la fourniture d'un service de qualité constante. Surmonter ces défis implique une formation continue de l'équipe et une attention particulière aux retours clients."
                         },
                         {
-                            "question": "Quel conseil donneriez-vous à un nouvel entrepreneur désireux de se lancer dans le secteur des services ?",
-                            "answer": "Il est essentiel d'écouter et de comprendre les besoins des clients. Construire une équipe fiable et compétente est tout aussi crucial, car dans les services, les employés sont souvent le visage de l'entreprise."
+                            question: "Quel conseil donneriez-vous à un nouvel entrepreneur désireux de se lancer dans le secteur des services ?",
+                            answer: "Il est essentiel d'écouter et de comprendre les besoins des clients. Construire une équipe fiable et compétente est tout aussi crucial, car dans les services, les employés sont souvent le visage de l'entreprise."
                         }
                     ]
                 }
             ],
             advices: [
                 {
-                    "title": "Parler à Maxime Eisler (Via chat)",
-                    "description": "Position actuelle : Gérant chez alpestetiers.com. Domaine d'expertise : Spécialiste des coffrages en bois pour le béton. Maxime peut vous aider à comprendre l'importance de la gestion stratégique et efficace des ressources, notamment financières et humaines, dans le démarrage et la croissance de votre entreprise."
+                    title: "Parler à Maxime Eisler (Via chat)",
+                    description: "Position actuelle : Gérant chez alpestetiers.com. Domaine d'expertise : Spécialiste des coffrages en bois pour le béton. Maxime peut vous aider à comprendre l'importance de la gestion stratégique et efficace des ressources, notamment financières et humaines, dans le démarrage et la croissance de votre entreprise."
                 },
                 {
-                    "title": "Parler à Cédric Garna (Via chat)",
-                    "description": "Entrepreneur chez Laiterie Gilbert. Expérience en développement de franchises et en diversification des activités commerciales. Cédric peut vous conseiller sur la manière de maintenir la motivation, l'importance de la polyvalence dans la gestion d'une entreprise et les stratégies de croissance."
+                    title: "Parler à Cédric Garna (Via chat)",
+                    description: "Entrepreneur chez Laiterie Gilbert. Expérience en développement de franchises et en diversification des activités commerciales. Cédric peut vous conseiller sur la manière de maintenir la motivation, l'importance de la polyvalence dans la gestion d'une entreprise et les stratégies de croissance."
                 },
                 {
-                    "title": "Parler à Lucien Rumbroso (Via chat)",
-                    "description": "Ingénieur de formation et parrain au bureau de 60000rebonds. Lucien a un parcours riche en défis et en réussites. Il peut vous fournir des conseils précieux sur la résilience, la gestion des conflits et des risques, et l'importance de l'adaptabilité dans l'entrepreneuriat."
+                    title: "Parler à Lucien Rumbroso (Via chat)",
+                    description: "Ingénieur de formation et parrain au bureau de 60000rebonds. Lucien a un parcours riche en défis et en réussites. Il peut vous fournir des conseils précieux sur la résilience, la gestion des conflits et des risques, et l'importance de l'adaptabilité dans l'entrepreneuriat."
                 }
             ]
 
@@ -243,56 +243,56 @@ export const GameProvider = ({ children }) => {
             ],
             chat: [
                 {
-                    "name": "Lucien Rumbroso",
-                    "description": "Ingénieur de formation et parrain au bureau de 60000rebonds. Lucien a un parcours riche en défis et en réussites, montrant une adaptabilité exceptionnelle et une expertise dans la gestion des risques et des conflits.",
-                    "questions": [
+                    name: "Lucien Rumbroso",
+                    description: "Ingénieur de formation et parrain au bureau de 60000rebonds. Lucien a un parcours riche en défis et en réussites, montrant une adaptabilité exceptionnelle et une expertise dans la gestion des risques et des conflits.",
+                    questions: [
                         {
-                            "question": "Comment avez-vous financé et géré les risques lors du redressement d'entreprises en difficulté ?",
-                            "answer": "La clé du financement était de négocier avec les créanciers et d'optimiser les ressources existantes. La gestion des risques impliquait une évaluation précise des défis et la mise en place de stratégies adaptatives pour surmonter les obstacles."
+                            question: "Comment avez-vous financé et géré les risques lors du redressement d'entreprises en difficulté ?",
+                            answer: "La clé du financement était de négocier avec les créanciers et d'optimiser les ressources existantes. La gestion des risques impliquait une évaluation précise des défis et la mise en place de stratégies adaptatives pour surmonter les obstacles."
                         },
                         {
-                            "question": "Quels ont été les plus grands défis rencontrés dans vos négociations avec les partenaires internationaux et comment les avez-vous surmontés ?",
-                            "answer": "Les plus grands défis étaient les différences culturelles et les barrières linguistiques. J'ai surmonté ces défis en me concentrant sur une communication claire et en m'entourant d'une équipe compétente et expérimentée dans les affaires internationales."
+                            question: "Quels ont été les plus grands défis rencontrés dans vos négociations avec les partenaires internationaux et comment les avez-vous surmontés ?",
+                            answer: "Les plus grands défis étaient les différences culturelles et les barrières linguistiques. J'ai surmonté ces défis en me concentrant sur une communication claire et en m'entourant d'une équipe compétente et expérimentée dans les affaires internationales."
                         },
                         {
-                            "question": "Quel conseil donneriez-vous à un entrepreneur qui fait face à des conflits juridiques dans son entreprise ?",
-                            "answer": "Il est crucial d'être bien préparé et de documenter minutieusement toutes les transactions. Faites appel à des experts juridiques et n'ayez pas peur de défendre fermement vos droits tout en restant ouvert à la négociation."
+                            question: "Quel conseil donneriez-vous à un entrepreneur qui fait face à des conflits juridiques dans son entreprise ?",
+                            answer: "Il est crucial d'être bien préparé et de documenter minutieusement toutes les transactions. Faites appel à des experts juridiques et n'ayez pas peur de défendre fermement vos droits tout en restant ouvert à la négociation."
                         }
                     ]
                 },
                 {
-                    "name": "Cédric Garna",
-                    "description": "Cédric Garna, actuellement à la tête de la Laiterie Gilbert, a un parcours professionnel varié et a réussi à développer un réseau de franchises prospère tout en modernisant l'entreprise.",
-                    "questions": [
+                    name: "Cédric Garna",
+                    description: "Cédric Garna, actuellement à la tête de la Laiterie Gilbert, a un parcours professionnel varié et a réussi à développer un réseau de franchises prospère tout en modernisant l'entreprise.",
+                    questions: [
                         {
-                            "question": "Quelle a été votre stratégie pour financer l'expansion de la Laiterie Gilbert en franchise ?",
-                            "answer": "Nous avons commencé avec des magasins en propre avant de nous tourner vers la franchise, ce qui a réduit les besoins initiaux de capitaux tout en permettant une expansion rapide grâce aux investissements des franchisés."
+                            question: "Quelle a été votre stratégie pour financer l'expansion de la Laiterie Gilbert en franchise ?",
+                            answer: "Nous avons commencé avec des magasins en propre avant de nous tourner vers la franchise, ce qui a réduit les besoins initiaux de capitaux tout en permettant une expansion rapide grâce aux investissements des franchisés."
                         },
                         {
-                            "question": "Comment gérez-vous la qualité et la cohérence dans un réseau de franchises en expansion ?",
-                            "answer": "Nous mettons l'accent sur une formation rigoureuse des franchisés et sur des systèmes de contrôle de qualité, assurant ainsi que chaque franchise respecte nos standards et offre une expérience client homogène."
+                            question: "Comment gérez-vous la qualité et la cohérence dans un réseau de franchises en expansion ?",
+                            answer: "Nous mettons l'accent sur une formation rigoureuse des franchisés et sur des systèmes de contrôle de qualité, assurant ainsi que chaque franchise respecte nos standards et offre une expérience client homogène."
                         },
                         {
-                            "question": "Quels conseils donneriez-vous pour établir des relations durables avec des franchisés ?",
-                            "answer": "Il est important de choisir des franchisés alignés avec la vision de l'entreprise, de maintenir une communication transparente, et d'offrir un soutien constant pour les aider à réussir."
+                            question: "Quels conseils donneriez-vous pour établir des relations durables avec des franchisés ?",
+                            answer: "Il est important de choisir des franchisés alignés avec la vision de l'entreprise, de maintenir une communication transparente, et d'offrir un soutien constant pour les aider à réussir."
                         }
                     ]
                 },
                 {
-                    "name": "Quentin de l'Adie",
-                    "description": "Quentin, directeur de l'Adie Isère, offre des solutions de financement et d'accompagnement aux entrepreneurs sans accès au crédit bancaire traditionnel.",
-                    "questions": [
+                    name: "Quentin de l'Adie",
+                    description: "Quentin, directeur de l'Adie Isère, offre des solutions de financement et d'accompagnement aux entrepreneurs sans accès au crédit bancaire traditionnel.",
+                    questions: [
                         {
-                            "question": "Quels sont les critères pour accéder aux financements de l'Adie et comment cela peut-il aider un entrepreneur à démarrer ?",
-                            "answer": "L'Adie cible les individus sans accès aux fonds bancaires classiques. Nous offrons des prêts jusqu'à 12 000 € sans exigence d'apport personnel, ce qui est crucial pour les entrepreneurs en phase de démarrage."
+                            question: "Quels sont les critères pour accéder aux financements de l'Adie et comment cela peut-il aider un entrepreneur à démarrer ?",
+                            answer: "L'Adie cible les individus sans accès aux fonds bancaires classiques. Nous offrons des prêts jusqu'à 12 000 € sans exigence d'apport personnel, ce qui est crucial pour les entrepreneurs en phase de démarrage."
                         },
                         {
-                            "question": "Comment l'Adie soutient-elle les entrepreneurs après l'octroi d'un prêt ?",
-                            "answer": "Au-delà du financement, l'Adie offre un accompagnement à chaque étape, avec des conseils, des solutions d'assurance, et un accompagnement en ligne, afin de maximiser les chances de succès des entrepreneurs."
+                            question: "Comment l'Adie soutient-elle les entrepreneurs après l'octroi d'un prêt ?",
+                            answer: "Au-delà du financement, l'Adie offre un accompagnement à chaque étape, avec des conseils, des solutions d'assurance, et un accompagnement en ligne, afin de maximiser les chances de succès des entrepreneurs."
                         },
                         {
-                            "question": "Quels sont les avantages et inconvénients des prêts de l'Adie comparés à ceux des banques traditionnelles ?",
-                            "answer": "Les avantages incluent l'accessibilité pour ceux qui n'ont pas d'autres options de financement et un processus d'approbation plus souple. L'inconvénient peut être un taux d'intérêt légèrement plus élevé."
+                            question: "Quels sont les avantages et inconvénients des prêts de l'Adie comparés à ceux des banques traditionnelles ?",
+                            answer: "Les avantages incluent l'accessibilité pour ceux qui n'ont pas d'autres options de financement et un processus d'approbation plus souple. L'inconvénient peut être un taux d'intérêt légèrement plus élevé."
                         }
                     ]
                 }
@@ -300,16 +300,16 @@ export const GameProvider = ({ children }) => {
             ,
             advices: [
                 {
-                    "title": "Parler à Lucien Rumbroso (Via chat)",
-                    "description": "Position actuelle : Gérant chez alpestetiers.com. Domaine d'expertise : Spécialiste des coffrages en bois pour le béton. Maxime peut vous aider à comprendre l'importance de la gestion stratégique et efficace des ressources, notamment financières et humaines, dans le démarrage et la croissance de votre entreprise."
+                    title: "Parler à Lucien Rumbroso (Via chat)",
+                    description: "Position actuelle : Gérant chez alpestetiers.com. Domaine d'expertise : Spécialiste des coffrages en bois pour le béton. Maxime peut vous aider à comprendre l'importance de la gestion stratégique et efficace des ressources, notamment financières et humaines, dans le démarrage et la croissance de votre entreprise."
                 },
                 {
-                    "title": "Parler à Cédric Garna (Via chat)",
-                    "description": "Entrepreneur à la Laiterie Gilbert. Cédric Garna, grâce à son expérience dans le développement de franchises, peut vous conseiller sur les stratégies de croissance, la diversification des activités commerciales, et la gestion d'un réseau de franchises"
+                    title: "Parler à Cédric Garna (Via chat)",
+                    description: "Entrepreneur à la Laiterie Gilbert. Cédric Garna, grâce à son expérience dans le développement de franchises, peut vous conseiller sur les stratégies de croissance, la diversification des activités commerciales, et la gestion d'un réseau de franchises"
                 },
                 {
-                    "title": "Consulter Quentin de l'Adie (Via chat)",
-                    "description": "Directeur Adie pour l'Isère. Quentin peut vous fournir des informations sur les options de financement pour les entrepreneurs sans accès au crédit bancaire, notamment les prêts sans exigence d'apport personnel et les services d'accompagnement proposés par l'Adie."
+                    title: "Consulter Quentin de l'Adie (Via chat)",
+                    description: "Directeur Adie pour l'Isère. Quentin peut vous fournir des informations sur les options de financement pour les entrepreneurs sans accès au crédit bancaire, notamment les prêts sans exigence d'apport personnel et les services d'accompagnement proposés par l'Adie."
                 }
             ]
         },
@@ -365,56 +365,56 @@ export const GameProvider = ({ children }) => {
                 },
                 chat: [
                     {
-                        "name": "Véronique Rostas",
-                        "description": "Véronique Rostas, coach professionnel et bénévole à 60000 rebonds, offre son expertise en résilience et transformation des échecs en opportunités pour les entrepreneurs.",
-                        "questions": [
+                        name: "Véronique Rostas",
+                        description: "Véronique Rostas, coach professionnel et bénévole à 60000 rebonds, offre son expertise en résilience et transformation des échecs en opportunités pour les entrepreneurs.",
+                        questions: [
                             {
-                                "question": "Comment aborder et surmonter les échecs dans l'entrepreneuriat ?",
-                                "answer": "Il est essentiel de percevoir les échecs non pas comme des fins, mais comme des leçons. Analyser ce qui n'a pas fonctionné, s'adapter, et rebondir en tirant des enseignements constructifs est crucial pour la croissance personnelle et professionnelle."
+                                question: "Comment aborder et surmonter les échecs dans l'entrepreneuriat ?",
+                                answer: "Il est essentiel de percevoir les échecs non pas comme des fins, mais comme des leçons. Analyser ce qui n'a pas fonctionné, s'adapter, et rebondir en tirant des enseignements constructifs est crucial pour la croissance personnelle et professionnelle."
                             },
                             {
-                                "question": "Quelle est l'importance du coaching et du mentorat pour un entrepreneur ?",
-                                "answer": "Le coaching offre un regard extérieur objectif et expérimenté, permettant de déceler des angles morts dans la gestion et la stratégie. Le mentorat, en particulier, apporte un soutien émotionnel et pratique, essentiel dans les moments de doute ou de transition."
+                                question: "Quelle est l'importance du coaching et du mentorat pour un entrepreneur ?",
+                                answer: "Le coaching offre un regard extérieur objectif et expérimenté, permettant de déceler des angles morts dans la gestion et la stratégie. Le mentorat, en particulier, apporte un soutien émotionnel et pratique, essentiel dans les moments de doute ou de transition."
                             },
                             {
-                                "question": "Comment maintenir un équilibre entre vie professionnelle et personnelle en tant qu'entrepreneur ?",
-                                "answer": "Il est vital de définir des limites claires entre le travail et la vie personnelle. Cela inclut une gestion efficace du temps, la délégation de tâches, et la priorisation des moments de repos et de qualité avec la famille et les amis."
+                                question: "Comment maintenir un équilibre entre vie professionnelle et personnelle en tant qu'entrepreneur ?",
+                                answer: "Il est vital de définir des limites claires entre le travail et la vie personnelle. Cela inclut une gestion efficace du temps, la délégation de tâches, et la priorisation des moments de repos et de qualité avec la famille et les amis."
                             }
                         ]
                     },
                     {
-                        "name": "Quentin de l'Adie",
-                        "description": "Quentin, directeur de l'Adie Isère, offre des solutions de financement et d'accompagnement aux entrepreneurs sans accès au crédit bancaire traditionnel.",
-                        "questions": [
+                        name: "Quentin de l'Adie",
+                        description: "Quentin, directeur de l'Adie Isère, offre des solutions de financement et d'accompagnement aux entrepreneurs sans accès au crédit bancaire traditionnel.",
+                        questions: [
                             {
-                                "question": "Quels sont les critères pour accéder aux financements de l'Adie et comment cela peut-il aider un entrepreneur à démarrer ?",
-                                "answer": "L'Adie cible les individus sans accès aux fonds bancaires classiques. Nous offrons des prêts jusqu'à 12 000 € sans exigence d'apport personnel, ce qui est crucial pour les entrepreneurs en phase de démarrage. Ces fonds peuvent être utilisés pour des investissements initiaux, tels que l'achat de matériel, le stock initial ou la mise en place d'un local."
+                                question: "Quels sont les critères pour accéder aux financements de l'Adie et comment cela peut-il aider un entrepreneur à démarrer ?",
+                                answer: "L'Adie cible les individus sans accès aux fonds bancaires classiques. Nous offrons des prêts jusqu'à 12 000 € sans exigence d'apport personnel, ce qui est crucial pour les entrepreneurs en phase de démarrage. Ces fonds peuvent être utilisés pour des investissements initiaux, tels que l'achat de matériel, le stock initial ou la mise en place d'un local."
                             },
                             {
-                                "question": "Comment l'Adie soutient-elle les entrepreneurs après l'octroi d'un prêt ?",
-                                "answer": "Au-delà du financement, l'Adie offre un accompagnement complet, incluant des conseils personnalisés, des ateliers de formation, et un accès à des ressources en ligne. Cela inclut des aides dans des domaines tels que la gestion financière, le marketing, et le développement commercial."
+                                question: "Comment l'Adie soutient-elle les entrepreneurs après l'octroi d'un prêt ?",
+                                answer: "Au-delà du financement, l'Adie offre un accompagnement complet, incluant des conseils personnalisés, des ateliers de formation, et un accès à des ressources en ligne. Cela inclut des aides dans des domaines tels que la gestion financière, le marketing, et le développement commercial."
                             },
                             {
-                                "question": "Quels sont les avantages et inconvénients des prêts de l'Adie comparés à ceux des banques traditionnelles ?",
-                                "answer": "Les avantages des prêts de l'Adie incluent leur accessibilité pour les personnes exclues du système bancaire traditionnel et une approche plus humaine et flexible. Cependant, ils peuvent venir avec un taux d'intérêt légèrement plus élevé par rapport aux prêts bancaires classiques, bien que cela soit compensé par l'absence de garanties matérielles et de frais de dossier."
+                                question: "Quels sont les avantages et inconvénients des prêts de l'Adie comparés à ceux des banques traditionnelles ?",
+                                answer: "Les avantages des prêts de l'Adie incluent leur accessibilité pour les personnes exclues du système bancaire traditionnel et une approche plus humaine et flexible. Cependant, ils peuvent venir avec un taux d'intérêt légèrement plus élevé par rapport aux prêts bancaires classiques, bien que cela soit compensé par l'absence de garanties matérielles et de frais de dossier."
                             }
                         ]
                     },
                     {
-                        "name": "Réseau Entreprendre France",
-                        "description": "Réseau Entreprendre France offre du mentorat, du financement et un réseau de soutien aux entrepreneurs pour les aider à démarrer et à développer leur entreprise.",
-                        "questions": [
+                        name: "Réseau Entreprendre France",
+                        description: "Réseau Entreprendre France offre du mentorat, du financement et un réseau de soutien aux entrepreneurs pour les aider à démarrer et à développer leur entreprise.",
+                        questions: [
                             {
-                                "question": "Quels sont les avantages de rejoindre un réseau comme Réseau Entreprendre pour un nouvel entrepreneur ?",
-                                "answer": "Rejoindre un réseau comme Réseau Entreprendre offre plusieurs avantages, dont l'accès à un mentorat expérimenté, des opportunités de networking, et potentiellement des financements sous forme de prêts d'honneur. Ce soutien permet de développer des compétences entrepreneuriales et d'éviter des erreurs courantes."
+                                question: "Quels sont les avantages de rejoindre un réseau comme Réseau Entreprendre pour un nouvel entrepreneur ?",
+                                answer: "Rejoindre un réseau comme Réseau Entreprendre offre plusieurs avantages, dont l'accès à un mentorat expérimenté, des opportunités de networking, et potentiellement des financements sous forme de prêts d'honneur. Ce soutien permet de développer des compétences entrepreneuriales et d'éviter des erreurs courantes."
                             },
                             {
-                                "question": "Comment Réseau Entreprendre accompagne-t-il les entrepreneurs dans le développement de leur entreprise ?",
-                                "answer": "Réseau Entreprendre accompagne les entrepreneurs en leur fournissant un mentorat personnalisé, en organisant des ateliers et des séminaires de formation, et en facilitant l'accès à un réseau d'entrepreneurs et de professionnels. Cela aide les entrepreneurs à acquérir des compétences clés et à établir des relations commerciales importantes."
+                                question: "Comment Réseau Entreprendre accompagne-t-il les entrepreneurs dans le développement de leur entreprise ?",
+                                answer: "Réseau Entreprendre accompagne les entrepreneurs en leur fournissant un mentorat personnalisé, en organisant des ateliers et des séminaires de formation, et en facilitant l'accès à un réseau d'entrepreneurs et de professionnels. Cela aide les entrepreneurs à acquérir des compétences clés et à établir des relations commerciales importantes."
                             },
                             {
-                                "question": "Quel est l'impact d'un prêt d'honneur sur le démarrage d'une entreprise ?",
-                                "answer": "Un prêt d'honneur a un impact significatif sur le démarrage d'une entreprise. Il fournit des fonds sans intérêt et sans garanties, ce qui réduit la pression financière sur l'entrepreneur. Cela permet d'investir dans des aspects cruciaux de l'entreprise, tels que le développement de produits, le marketing, et la croissance de l'équipe."
+                                question: "Quel est l'impact d'un prêt d'honneur sur le démarrage d'une entreprise ?",
+                                answer: "Un prêt d'honneur a un impact significatif sur le démarrage d'une entreprise. Il fournit des fonds sans intérêt et sans garanties, ce qui réduit la pression financière sur l'entrepreneur. Cela permet d'investir dans des aspects cruciaux de l'entreprise, tels que le développement de produits, le marketing, et la croissance de l'équipe."
                             }
                         ]
                     }
@@ -422,16 +422,16 @@ export const GameProvider = ({ children }) => {
                 ,
                 advices: [
                     {
-                        "title": "Parler à Véronique Rostas (Via chat)",
-                        "description": "Coach professionnel et bénévole à 60000 rebonds. Véronique Rostas, avec son expérience en coaching et son parcours personnel marqué par des défis et des rebondissements, peut vous guider dans le développement de stratégies de résilience, l'importance de l'adaptabilité en entrepreneuriat, et l'art de transformer les échecs en opportunités."
+                        title: "Parler à Véronique Rostas (Via chat)",
+                        description: "Coach professionnel et bénévole à 60000 rebonds. Véronique Rostas, avec son expérience en coaching et son parcours personnel marqué par des défis et des rebondissements, peut vous guider dans le développement de stratégies de résilience, l'importance de l'adaptabilité en entrepreneuriat, et l'art de transformer les échecs en opportunités."
                     },
                     {
-                        "title": "Consulter Quentin de l'Adie (Via chat)",
-                        "description": "Directeur Adie pour l'Isère. Quentin peut vous fournir des informations sur les options de financement pour les entrepreneurs sans accès au crédit bancaire, notamment les prêts sans exigence d'apport personnel et les services d'accompagnement proposés par l'Adie."
+                        title: "Consulter Quentin de l'Adie (Via chat)",
+                        description: "Directeur Adie pour l'Isère. Quentin peut vous fournir des informations sur les options de financement pour les entrepreneurs sans accès au crédit bancaire, notamment les prêts sans exigence d'apport personnel et les services d'accompagnement proposés par l'Adie."
                     },
                     {
-                        "title": "Se renseigner auprès de Réseau Entreprendre France (Via chat)",
-                        "description": "Réseau Entreprendre France offre un soutien et un accompagnement aux entrepreneurs, notamment à travers des prêts d'honneur et un coaching personnalisé. Ils peuvent vous aider à naviguer dans les défis de la création d'entreprise et offrir un réseau de soutien pour assurer votre succès."
+                        title: "Se renseigner auprès de Réseau Entreprendre France (Via chat)",
+                        description: "Réseau Entreprendre France offre un soutien et un accompagnement aux entrepreneurs, notamment à travers des prêts d'honneur et un coaching personnalisé. Ils peuvent vous aider à naviguer dans les défis de la création d'entreprise et offrir un réseau de soutien pour assurer votre succès."
                     }
                 ]
             },
@@ -484,12 +484,12 @@ export const GameProvider = ({ children }) => {
                 ],
                 advices: [
                     {
-                        "title": "Vous pouvez changer votre nombre d'employés en bas de page. (Oui, depuis le début).",
-                        "description": "La limite évolue au fur et à mesure de votre progression. Ils coutent chacun 6000€ par étape, et augmentent vos ventes d'environ 10% à chaque étape. Vous pouvez même choisir le nom de votre entreprise."
+                        title: "Vous pouvez changer votre nombre d'employés en bas de page. (Oui, depuis le début).",
+                        description: "La limite évolue au fur et à mesure de votre progression. Ils coutent chacun 6000€ par étape, et augmentent vos ventes d'environ 10% à chaque étape. Vous pouvez même choisir le nom de votre entreprise."
                     },
                     {
-                        "title": "Ceci est le derier conseil de la partie. Bonne chance pour la suite !",
-                        "description": "Vous avez compris le principe. C'est pourquoi les conseils ne sont plus affichés. Bonne chance pour la suite !"
+                        title: "Ceci est le derier conseil de la partie. Bonne chance pour la suite !",
+                        description: "Vous avez compris le principe. C'est pourquoi les conseils ne sont plus affichés. Bonne chance pour la suite !"
                     }
                 ],
                 chat: [

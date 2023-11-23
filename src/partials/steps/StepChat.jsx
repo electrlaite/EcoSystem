@@ -1,8 +1,6 @@
 import React, { useState, useContext, useRef } from 'react';
 import {useGame} from "../../contextes/GameContext";
 import MessagesSidebar from "../messages/MessagesSidebar";
-import MessagesBody from "../messages/MessagesBody";
-import MessagesFooter from "../messages/MessagesFooter";
 
 
 function StepChat() {

@@ -7,4 +7,3 @@ export const getVariationClass = (variation) => {
         return "bg-slate-400"; // Gris pour entre -5% et 5%
     }
 };
-
